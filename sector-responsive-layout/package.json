@@ -1,0 +1,17 @@
+{
+  "name": "sector-responsive-layout",
+  "version": "1.0.5",
+  "description": "Sector Responsive Layout",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sparks Interactive",
+  "license": "MIT",
+  "dependencies": {
+    "breakpoint-sass": "^2.7.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0",
+    "sector-breakpoints": "^1.0.0"
+  }
+}
