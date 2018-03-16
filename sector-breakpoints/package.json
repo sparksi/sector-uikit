@@ -1,6 +1,6 @@
 {
   "name": "sector-breakpoints",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sector Breakpoints",
   "main": "gulpfile.js",
   "scripts": {

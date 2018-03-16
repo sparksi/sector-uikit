@@ -2,6 +2,8 @@
  * @file
  * Map Bootstrap breakpoints to nice mixins.
  */
+ 
+@import '../../breakpoint-sass/stylesheets/breakpoint';
 
 // The following variables are simply duplicated from _variables-bootstrap-custom.scss
 $screen-xs:   480px !default;
