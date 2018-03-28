@@ -9,8 +9,10 @@
   "author": "Sparks Interactive",
   "license": "MIT",
   "dependencies": {
-    "breakpoint-sass": "^2.7.1",
-    "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0"
+    "breakpoint-sass": "^2.7.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^3.2.1"
   }
 }
