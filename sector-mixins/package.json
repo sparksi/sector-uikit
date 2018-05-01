@@ -1,6 +1,6 @@
 {
   "name": "sector-mixins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sector Mixins",
   "main": "gulpfile.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "Sparks Interactive",
   "license": "MIT",
   "dependencies": {
-    "gulp": "^3.9.1",
-    "gulp-sass": "^3.1.0"
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.1"
   }
 }

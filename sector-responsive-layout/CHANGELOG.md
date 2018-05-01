@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.6
+### May 2, 2018
+* updated dependency modules
+
 ## 1.0.4
 ### Feb 27, 2018
 * added sector-breakpoint dependency
